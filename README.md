@@ -48,7 +48,7 @@ This repository is organised into domain directories, each owned by the team or 
 
 | Directory | Description |
 |-----------|-------------|
-| [`design/`](./design/README.md) | Architecture diagrams, ADRs, and interface contracts |
+| [`design/`](./design/README.md) | UI and UX design requirements, and interface contracts |
 | [`code/`](./code/README.md) | Application source code and shared libraries |
 | [`cicd/`](./cicd/README.md) | CI/CD pipeline definitions and build automation |
 | [`platform/`](./platform/README.md) | Infrastructure-as-code and platform configuration |
