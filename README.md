@@ -31,16 +31,16 @@ As an Entity, you should
 - use your __own__ repository directory to create your product/project specific document as a PR
   Example:
   ```
-  best-blog-every.com
-  \_design\
-   \_workflows\
-    \_use-case1.md
-    \_ ...
-   \_mockups\
-    \_login.md
-    \_logout.md
-    \_use-case1.png
-    \_ ...
+  best-blog-every.com/
+  └── design/
+      ├── workflows/
+      │   ├── use-case1.md
+      │   └── ...
+      └── mockups/
+          ├── login.md
+          ├── logout.md
+          ├── use-case1.png
+          └── ...
   ```
 
 ## Domains and Sub-domains
