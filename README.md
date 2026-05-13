@@ -7,7 +7,7 @@ Those who work `on-the-system` create the rules, boundaries, platforms, conventi
 - mockups
 - HLAs
 - NFRs
-- pipeline changess
+- pipeline changes
 - skeletons (initial app, and its test suite)
 - test suit changes
 - test reports
