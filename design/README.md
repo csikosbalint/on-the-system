@@ -1,17 +1,16 @@
 # design
 
-This directory contains system and architecture design artefacts.
+This directory contains ui and ux design artefacts.
 
-## Contents
+## UI
+As a UI developer and designer, you should consider using (https://flowbite-react.com/docs/getting-started/ai-integration)
+- React Flowbite (NextJS) Components 
+- React Flowbite Theme Customization
+- React Flowbite Design Dystem: https://www.figma.com/community/file/1179442320711977498/flowbite-design-system
+- Server Components (use Client Components when necessary)
 
-- **Architecture diagrams** – high-level and component-level views of the system
-- **Design decisions** – Architecture Decision Records (ADRs) capturing key choices and their rationale
-- **Data models** – entity-relationship diagrams and schema definitions
-- **API contracts** – interface specifications and OpenAPI/AsyncAPI documents
-- **Sequence & flow diagrams** – interaction flows between services and actors
-
-## Conventions
-
-- Store diagrams as code (e.g. Mermaid, PlantUML) alongside exported images.
-- Use one ADR file per decision, named `NNN-short-title.md`.
-- Keep design documents up-to-date with the current implementation.
+## UX
+As a UX developer and product owner, you should consider using
+- Voice and Tone Principles https://developers.google.com/style/tone
+- Easy and simple workflows
+- Clean workflow design
