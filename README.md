@@ -1,6 +1,6 @@
 # on-the-system
 
-There are 2 type of Entities in a process. 
+There are two types of Entities in a process. 
 
 Those who work `on-the-system` create the rules, boundaries, platforms, conventions, etc. They are human actors (mostly), and need to review and approve changes for product specific artefacts (same categories can be batched together in a single PR):
 - workflows
