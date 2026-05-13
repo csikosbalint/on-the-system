@@ -17,7 +17,7 @@ Those who work `on-the-system` create the rules, boundaries, platforms, conventi
 - new NFR stories (no AC needed)
 - smoke test reports
 
-Those who work `in-the-system`, must keep the rules, boundaries, conventions and use platforms as stated in this repository (see Domains below)!
+Those who work `in-the-system` must keep the rules, boundaries, conventions and use platforms as stated in this repository (see Domains below)!
 - Product Owner (PO)
 - Scrum Master
 - Team Architect
