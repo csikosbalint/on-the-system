@@ -25,7 +25,7 @@ Those who work `in-the-system`, must keep the rules, boundaries, conventions and
 - Lead Developer
 - DevOps Engineer
 
-# For Every `in-the-system` Entity
+## For Every `in-the-system` Entity
 As an Entity, you should
 - read the domains (subdomains are also available as subfirectories) here
 - use your __own__ repository directory to create your product/project specific document as a PR
